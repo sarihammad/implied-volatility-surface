@@ -5,9 +5,7 @@
 
 Calculates and visualizes the Implied Volatility (IV) Surface for a given stock using real options market data.
 
-The IV surface is a 3D representation of how implied volatility changes with respect to Strike Price, Time to Expiration, Option Type (Call/Put)
-
-It's a valuable tool for options pricing, volatility modeling, and identifying market anomalies.
+The IV surface is a 3D representation of how implied volatility changes with respect to Strike Price, Time to Expiration, Option Type (Call/Put). It's a valuable tool for options pricing, volatility modeling, and identifying market anomalies.
 
 ## Live Demo
 
@@ -38,3 +36,5 @@ streamlit run app.py
 ## Example Visualization
 
 The plot shows implied volatility across different strikes and expiries for a selected stock, giving insight into volatility skew, smiles, and term structure.
+
+![Figure_1](https://github.com/user-attachments/assets/a4977eca-b348-4dd5-b593-0a62c99b92a9)
